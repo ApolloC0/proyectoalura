@@ -1,10 +1,6 @@
 📚 Catálogo de Libros
 Catálogo de Libros es una aplicación de consola desarrollada en Java con Spring Boot que permite gestionar un catálogo personal de libros consumiendo la API de Gutendex (basada en el Proyecto Gutenberg). Los usuarios pueden buscar, registrar y consultar información sobre libros y autores, almacenando los datos en una base de datos PostgreSQL.
 
-https://img.shields.io/badge/Java-17%252B-blue
-https://img.shields.io/badge/Spring_Boot-3.5.4-brightgreen
-https://img.shields.io/badge/PostgreSQL-12%252B-blueviolet
-https://img.shields.io/badge/Maven-3.8%252B-orange
 
 🚀 Características
 Búsqueda de libros: Integración con la API de Gutendex para encontrar libros por título
